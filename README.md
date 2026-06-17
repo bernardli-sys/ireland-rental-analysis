@@ -40,7 +40,7 @@ Dashboard Design (Power BI)
 Data Visualization
 Business Insight Generation
 
-# Author
+Author
 
 Xu Qingfu
 
