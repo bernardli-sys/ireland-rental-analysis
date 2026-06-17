@@ -8,25 +8,25 @@ It explores rental price differences across cities, regions, and property types.
 
 Tools Used
 
-Python (Pandas, NumPy)
-SQL (SQLite)
-Power BI
-Data Visualization
+Python (Pandas, NumPy),
+SQL (SQLite),
+Power BI,
+Data Visualization.
 
 Workflow
 
-Data cleaning using Python
-Data analysis using SQL
-Data transformation and aggregation
-Dashboard creation in Power BI
-Insight generation
+Data cleaning using Python,
+Data analysis using SQL,
+Data transformation and aggregation,
+Dashboard creation in Power BI,
+Insight generation.
 
 Key Insights
 
-Dublin has the highest rental prices
-Regional differences are significant
-Property size affects rental cost
-Data sources show different pricing trends
+Dublin has the highest rental prices.
+Regional differences are significant.
+Property size affects rental cost.
+Data sources show different pricing trends.
 
 
 Dashboard Overview
@@ -53,11 +53,11 @@ Trend Analysis
 
 Skills Demonstrated
 
-Data Cleaning & Processing
-SQL Analysis
-Dashboard Design (Power BI)
-Data Visualization
-Business Insight Generation
+Data Cleaning & Processing,
+SQL Analysis,
+Dashboard Design (Power BI),
+Data Visualization,
+Business Insight Generation.
 
 Author
 
