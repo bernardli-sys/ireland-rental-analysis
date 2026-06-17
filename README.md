@@ -28,9 +28,28 @@ Regional differences are significant
 Property size affects rental cost
 Data sources show different pricing trends
 
-Dashboard
 
-![Dashboard](dashboard_overview.png)
+Dashboard Overview
+
+![Dashboard Overview](dashboard_overview.png)
+
+Geography Analysis
+
+![Geography Analysis](geography_analysis.png)
+
+Source Analysis
+
+![Source Analysis](source_analysis.png)
+
+Segment Analysis
+
+![Segment Analysis](segment_analysis.png)
+
+Trend Analysis
+
+![Trend Analysis](trend_analysis.png)
+
+
 
 Skills Demonstrated
 
