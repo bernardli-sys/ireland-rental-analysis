@@ -30,7 +30,7 @@ Data sources show different pricing trends
 
 Dashboard
 
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](dashboard_overview.png)
 
 Skills Demonstrated
 
